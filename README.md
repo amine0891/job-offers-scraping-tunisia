@@ -25,27 +25,4 @@ The goal of this project is to:
 
 ---
 
-## 📁 Project Structure
 
-projet_web_scrapping/
-│
-├── scraping/
-│   ├── scraper_informatique.py
-│   ├── scraper_electrique.py
-│   ├── scraper_commercial.py
-│   └── ...
-│
-├── data/
-│   ├── informatique.csv
-│   ├── electrique.csv
-│   └── all_jobs.csv
-│
-├── analysis/
-│   ├── data_analysis.ipynb
-│   └── visualizations.py
-│
-├── interface_streamlit.py
-│
-├── requirements.txt
-│
-└── README.md
