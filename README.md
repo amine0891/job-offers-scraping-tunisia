@@ -27,8 +27,7 @@ The goal of this project is to:
 
 ## 📂 Project Structure
 
-## 📂 Project Structure
-'''
+```
 projet_web_scrapping/
 ├── analysis/
 │   └── data_analysis.ipynb
@@ -47,6 +46,6 @@ projet_web_scrapping/
 ├── interface_streamlit.py
 ├── requirements.txt
 └── README.md
-'''
 
+```
 
