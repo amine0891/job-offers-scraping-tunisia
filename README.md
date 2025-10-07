@@ -25,6 +25,20 @@ The goal of this project is to:
 
 ---
 
+## 🖼️ Dashboard Preview
+
+Here are some screenshots of the data analysis dashboard built with Streamlit:
+
+### 1️⃣ Offers by Domain
+![Offers by Domain](screenshots/overview.png)
+
+### 2️⃣ Top 5 Recruiting Companies
+![Top 5 Recruiting Companies](screenshots/top_companies_chart.png)
+
+### 3️⃣ Offers by Domain and Location (Heatmap)
+![Offers by Domain and Location](screenshots/offers_heatmap.png)
+
+
 ## 📂 Project Structure
 
 projet_web_scrapping/
