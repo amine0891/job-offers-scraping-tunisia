@@ -25,4 +25,25 @@ The goal of this project is to:
 
 ---
 
+## 📂 Project Structure
+
+projet_web_scrapping/
+├── analysis/
+│   └── data_analysis.ipynb
+├── data/
+│   ├── all_jobs.csv
+│   ├── emploitunisie_commercial.csv
+│   ├── emploitunisie_electrique_simplifie2.csv
+│   ├── emploitunisie_gestion_compta_finance.csv
+│   ├── emploitunisie_gestion_compta_finance2.csv
+│   ├── emploitunisie_informatique_simplifie.csv
+│   ├── emploitunisie_informatique_simplifie2.csv
+│   ├── emploitunisie_tourisme.csv
+│   └── emploitunisie_transport.csv
+├── scraping/
+│   └── scrap.py
+├── interface_streamlit.py
+├── requirements.txt
+└── README.md
+
 
