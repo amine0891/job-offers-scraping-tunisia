@@ -41,6 +41,7 @@ Here are some screenshots of the data analysis dashboard built with Streamlit:
 
 ## 📂 Project Structure
 
+```
 projet_web_scrapping/
 ├── analysis/
 │   └── data_analysis.ipynb
@@ -60,4 +61,5 @@ projet_web_scrapping/
 ├── requirements.txt
 └── README.md
 
+```
 
