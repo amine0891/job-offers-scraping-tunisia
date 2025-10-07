@@ -28,6 +28,7 @@ The goal of this project is to:
 ## 📂 Project Structure
 
 projet_web_scrapping/
+
 ├── analysis/
 │   └── data_analysis.ipynb
 ├── data/
